@@ -1,0 +1,4 @@
+- basic IoT
+- basic AI
+- Arduino ESP8266
+- Tensorflow
