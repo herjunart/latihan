@@ -3,4 +3,5 @@
   * Network
 - basic AI
 - Arduino ESP8266
+- ESP32
 - Tensorflow
