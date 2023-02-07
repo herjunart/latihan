@@ -4,3 +4,7 @@
 - basic AI
 - Arduino ESP8266
 - Tensorflow
+ * Linear regression
+ * Computer vision
+ * NLP
+ * time series
