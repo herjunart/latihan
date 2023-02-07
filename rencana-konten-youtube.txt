@@ -5,3 +5,7 @@
 - Arduino ESP8266
 - ESP32
 - Tensorflow
+ * Linear regression
+ * Computer vision
+ * NLP
+ * time series
