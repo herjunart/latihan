@@ -1,4 +1,6 @@
 - basic IoT
+  * Embedded system
+  * Network
 - basic AI
 - Arduino ESP8266
 - Tensorflow
