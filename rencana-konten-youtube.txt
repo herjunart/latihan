@@ -1,0 +1,2 @@
+- basic IoT
+- basic AI
